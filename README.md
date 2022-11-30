@@ -1,1 +1,2 @@
 # Heart-Disease-Prediction-using-machine-learning-Algorithms
+The aim of this project is to identify and predict the heart disease in early stage, by using Cleveland heart disease dataset more efficiently and accurately by using various machine learning algorithms Like gradient boosting,Gaussian naive bayes,KNN,Support vector machine, Decision Tree, Logistic Regression.Gradient Boosting achieves highest accuracy 95%.
